@@ -53,7 +53,7 @@ Stage 0: Shortcuts I have
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6bedb39c-212c-40c1-aa8e-a2e86e3f6f1e" />
 
-## 2D Analysis -DONE IN XFLR5
+## 2D Analysis
 This only needs to be done once per analysis and must be done before 3D analysis.
 SIKE This needs to be done in XFLR5 still then results need to be ported into FLOW5...
 Here's how to do that:
