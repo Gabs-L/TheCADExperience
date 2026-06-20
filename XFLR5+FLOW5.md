@@ -42,7 +42,7 @@ Stage 0: Shortcuts I have
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/dad705b1-3eca-4403-ade9-404e801e373d" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/44b05203-67ce-4114-8918-7418bdc8cb02" />
 
-*** NOTE TO SELF THESE IS A NEAT INTERPOLATE FOIL TOOL THAT LETS YOU INTERPOLATE BETWEEN AIRFOILS WHHICH MIGHT BE REALLY USEFUL FOR BLENDED WINGS/TRANSITION REGIONS ***
+*** NOTE TO SELF THERE IS A NEAT INTERPOLATE FOIL TOOL THAT LETS YOU INTERPOLATE BETWEEN AIRFOILS WHHICH MIGHT BE REALLY USEFUL FOR BLENDED WINGS/TRANSITION REGIONS ***
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ce8c7a39-23c1-4413-9b01-856a01be1b51" />
 
 - Next we want to refine our airfoils so they are smoother, like my brain. So after selecting the desired airfoil, **press F9**, or R_Click the airfoil>Modify>Refine Globally, increase the number of panels to somewhere in the range of 150-300. Too many will make your computer toasty and may prevent convergence. I did 200.
@@ -55,6 +55,23 @@ Stage 0: Shortcuts I have
 
 ## 2D Analysis
 This only needs to be done once per analysis and must be done before 3D analysis.
+This is a scuffed and non-ideal method but I'll document my attempt:
+Go to a sheet document and create a column for Re, Mach, and nCrit
+Fill in values for each and paste into the legacy batch analysis thingy
+<img width="560" height="765" alt="image" src="https://github.com/user-attachments/assets/ac52ac08-ded2-4875-a95e-852689fe4193" />
+
+
+o lord:
+<img width="1107" height="743" alt="image" src="https://github.com/user-attachments/assets/2fe875fc-8bbf-4ff2-8026-2bbce94fe29c" />
+
+
+
+
+
+
+
+
+
 SIKE This needs to be done in XFLR5 still then results need to be ported into FLOW5...
 Here's how to do that:
 - ... jk I gave up and skipped to CAD stuffs 
