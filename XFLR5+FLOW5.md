@@ -64,6 +64,8 @@ Fill in values for each and paste into the legacy batch analysis thingy
 o lord:
 <img width="1107" height="743" alt="image" src="https://github.com/user-attachments/assets/2fe875fc-8bbf-4ff2-8026-2bbce94fe29c" />
 
+# From Here on out I will be using FLOW5 v7.57
+
 
 
 
