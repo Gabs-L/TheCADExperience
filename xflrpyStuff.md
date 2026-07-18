@@ -19,9 +19,14 @@ Main takeaways:
 - type 6 analysis (flap analysis?)
 - Polars and Analysis are the same object. Analysis is the input parameters, and the Polar is the output of said Analysis.
 - double click anywhere to center graph view
-- press x/y then scroll to soom in axis
+- press x/y then scroll to zoom in axis
 - Touches on batch mode-legacy which is needed to generate viscous data for 3D analysis, does not use new batch analysis for this
   - uses the new batch analysis to do multi-type batch analysis
+Did a little test of my own to comfirm suspicions and yes, it is indeed better to have two broken ranges than one long continuous range:
+
+Here we have magenta as thhe single continuous range and the light blue as the broken ranges
+<img width="1058" height="963" alt="both_compared" src="https://github.com/user-attachments/assets/60ce5ef2-65fb-4f2b-b8ee-b1c9bf66c5d0" />
+
   
 [Follow Up with 3D of above - techwinder](https://www.youtube.com/watch?v=kuaHycjO-7g)
 Main Takeaways:
